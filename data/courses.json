@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Angular 8",
+    "price": "14000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png",
+    "id": "69410ef5-8424-4337-9082-d3a2221fcfbb"
+  },
+  {
+    "title": "Vue JS (v 2.5+)",
+    "price": "20000",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/800px-Vue.js_Logo_2.svg.png",
+    "id": "e207381f-23a0-4af4-a3dd-1a91b4e31509"
+  }
+]
