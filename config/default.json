@@ -1,7 +1,7 @@
 {
   "jwtPrivateKey": "alex",
   "sessionSecretKey": "secret",
-  "sendgridApiKey": "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",
+  "sendgridApiKey": "example",
   "email": "node-js@sc.ru",
   "baseUrl": "http://localhost:3000"
 }
